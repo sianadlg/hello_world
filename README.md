@@ -1,2 +1,3 @@
 # hello_world
-essai pour scrap
+I want to learn how to deal with github and code !
+
